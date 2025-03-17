@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -ResourceGroupName app-grp -TemplateFile template10.json -TemplateParameterFile template10.parameters.json
